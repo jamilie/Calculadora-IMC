@@ -1,0 +1,22 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+:root {
+  --bg-primary:#e9edc9;
+  --bg-secundary:#ccd5ae;
+  --text-dark: #6b705c;
+  --text-light:#ddbea9;
+  --heading-color:#cb997e;
+  --box-color:#ffe8d6;
+}
+
+body {
+  font-size: 16px;
+  font-family: "Poppins";
+}
+body h1 {
+  font-family: "Agbalumo";
+}/*# sourceMappingURL=style.css.map */
